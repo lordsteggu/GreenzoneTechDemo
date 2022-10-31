@@ -16,7 +16,7 @@ Linting and lint config are included.
 Get the Todo Application compiling and working as expected whilst covering the brief.
 The project itself will be half baked, with errors deliberately put in, and certain aspects of it deliberately removed.
 
-When making changes / Completing tasks I would like you comment the reasoning for the changes / an explanation of the changes purpose.
+When making changes / Completing tasks I would like you to comment the reasoning for the changes / an explanation of the changes purpose.
 
 The todo app should implement the following features when adding a todo item
 
