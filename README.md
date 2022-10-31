@@ -37,3 +37,5 @@ Fetching data from 3rd party Api - https://jsonplaceholder.typicode.com/todos/5 
 
 Throughout all of this, you should adhere to a clean uncluttered UI design. Hiding parts of the system where applicable behind popovers / menus.
 
+### Summary
+Now that you have read the brief, I would like you to fork this repo and when you have completed the TechDemo I would like you to do a pull request into this repo.
