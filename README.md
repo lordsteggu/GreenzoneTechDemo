@@ -20,7 +20,7 @@ When making changes / Completing tasks I would like you comment the reasoning fo
 
 The todo app should implement the following features when adding a todo item
 
-1 - A way to input text for a **Title** and a **Description** - _(Ensuring no duplicate todo items (title) and no empty items)_
+1 - A way to input text for a **Title** and a **Description** - _(Ensuring no duplicate todo items (title) and no empty items)_ <br>
 2 - Listing the Todo items in a card based layout
 3 - A clear UI separation for todo's that are **Active** and **Completed** _(with no items from either state being visible near the other)_
 4 - A clean system for moving the todo's between states
