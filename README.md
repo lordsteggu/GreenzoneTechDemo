@@ -21,19 +21,19 @@ When making changes / Completing tasks I would like you comment the reasoning fo
 The todo app should implement the following features when adding a todo item
 
 1 - A way to input text for a **Title** and a **Description** - _(Ensuring no duplicate todo items (title) and no empty items)_ <br>
-2 - Listing the Todo items in a card based layout
-3 - A clear UI separation for todo's that are **Active** and **Completed** _(with no items from either state being visible near the other)_
-4 - A clean system for moving the todo's between states
+2 - Listing the Todo items in a card based layout <br>
+3 - A clear UI separation for todo's that are **Active** and **Completed** _(with no items from either state being visible near the other)_ <br>
+4 - A clean system for moving the todo's between states <br>
 
 ### Things to Consider
-**Vuetify** components should be used where applicable.
-**State Storage** should be used to handle adding / completing data
-Following the fundamentals of VueJS' **component based architecture**
-Type checking with Typescript e.g. Ensuring all properties on an object can only be of certain types or only certain properties can exist on an object
+**Vuetify** components should be used where applicable. <br>
+**State Storage** should be used to handle adding / completing data <br>
+Following the fundamentals of VueJS' **component based architecture** <br>
+Type checking with Typescript e.g. Ensuring all properties on an object can only be of certain types or only certain properties can exist on an object <br>
 
 ### Bonus
-Image Upload to the card, nicely sized.
-Fetching data from 3rd party Api - https://jsonplaceholder.typicode.com/todos/5 (Use this website to get a todo(_last number can change_), then add it to your list)
+Image Upload to the card, nicely sized. <br>
+Fetching data from 3rd party Api - https://jsonplaceholder.typicode.com/todos/5 (Use this website to get a todo(_last number can change_), then add it to your list) <br>
 
 Throughout all of this, you should adhere to a clean uncluttered UI design. Hiding parts of the system where applicable behind popovers / menus.
 
